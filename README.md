@@ -1,4 +1,4 @@
-# Microsoft Entra ID User and Access Management Lab
+### [Microsoft Entra ID | User Provisioning & Group Management Lab](https://github.com/BiancaLavender/entra-id-user-provisioning-group-management-lab)
 ## Overview 
 This hands-on lab demonstrates foundational Identity and Access Management (IAM) tasks using Microsoft Entra ID. The lab focuses on user provisioning, authentication methods, multifactor authentication, security groups, and access management.
 ## Objectives
