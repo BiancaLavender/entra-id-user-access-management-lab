@@ -51,3 +51,11 @@ Created a security group in Microsoft Entra ID to organize users and support acc
 **Screenshot: Security group created in Microsoft Entra ID**
 
 <img width="1474" height="618" alt="group update" src="https://github.com/user-attachments/assets/85973fe3-c58c-4f3b-b1b1-38faee9d7a8a" />
+
+### 5. Assign Employee to Security Group
+
+Assigned the employee account to the security group in Microsoft Entra ID. This demonstrates how group membership can be used to organize users and support access management.
+
+**Screenshot: Employee assigned to security group**
+
+<img width="1484" height="594" alt="group 2" src="https://github.com/user-attachments/assets/0f416a72-1172-4e6c-abeb-e308671bfa79" />
