@@ -19,3 +19,8 @@ This hands-on lab demonstrates foundational Identity and Access Management (IAM)
 - Security Groups
 - User Provisioning
 - Access Management
+## Lab Activities
+
+### 1. User Account Creation
+
+Created and configured an employee account in Microsoft Entra ID. The account was configured with the required user information and account settings to establish the user's identity within the organization.
