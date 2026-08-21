@@ -24,3 +24,8 @@ This hands-on lab demonstrates foundational Identity and Access Management (IAM)
 ### 1. User Account Creation
 
 Created and configured an employee account in Microsoft Entra ID. The account was configured with the required user information and account settings to establish the user's identity within the organization.
+
+
+**Screenshot: Employee account created in Microsoft Entra ID**
+
+<img width="1197" height="862" alt="Updated User for dream" src="https://github.com/user-attachments/assets/96833841-f77e-4e09-8566-eb2d10f5adab" />
