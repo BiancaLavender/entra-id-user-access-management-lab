@@ -10,3 +10,12 @@ This hands-on lab demonstrates foundational Identity and Access Management (IAM)
 - Assign a user to a security group
 - Apply basic access management principles
 - Document IAM configuration and user access controls
+## Tools and Technologies
+
+- Microsoft Entra ID
+- Microsoft Authenticator
+- Identity and Access Management (IAM)
+- Multifactor Authentication (MFA)
+- Security Groups
+- User Provisioning
+- Access Management
