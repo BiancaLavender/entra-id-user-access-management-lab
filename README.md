@@ -37,3 +37,10 @@ Configured authentication methods for the employee account in Microsoft Entra ID
 **Screenshot: Authentication methods configured for the employee account**
 
 <img width="1490" height="835" alt="Auth enabled for dream" src="https://github.com/user-attachments/assets/d18d949c-a60e-4d53-b703-cee06708ebf1" />
+
+### 3. Multifactor Authentication
+
+Confirmed that multifactor authentication was enabled for the employee account. Microsoft Authenticator was configured as the preferred authentication method, requiring an additional verification step during sign in.
+
+**Evidence: MFA enabled and Microsoft Authenticator configured**
+
