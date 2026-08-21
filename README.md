@@ -73,4 +73,4 @@ Successfully created and configured an employee account, established Microsoft A
 - User and group administration
 - Access management
 - Identity and Access Management (IAM)
-- Security focused documentation
+- Security documentation
