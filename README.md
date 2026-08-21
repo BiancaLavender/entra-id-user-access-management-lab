@@ -59,3 +59,18 @@ Assigned the employee account to the security group in Microsoft Entra ID. This 
 **Screenshot: Employee assigned to security group**
 
 <img width="1484" height="594" alt="group 2" src="https://github.com/user-attachments/assets/0f416a72-1172-4e6c-abeb-e308671bfa79" />
+
+## Results
+
+Successfully created and configured an employee account, established Microsoft Authenticator as the preferred authentication method, enabled multifactor authentication, created a security group, and assigned the employee to the group. This lab demonstrated foundational IAM practices related to user provisioning, authentication, MFA, group management, and access control.
+
+## Skills Demonstrated
+
+- Microsoft Entra ID administration
+- User provisioning
+- Authentication and MFA configuration
+- Security group management
+- User and group administration
+- Access management
+- Identity and Access Management (IAM)
+- Security focused documentation
