@@ -44,3 +44,10 @@ Confirmed that multifactor authentication was enabled for the employee account. 
 
 **Evidence: MFA enabled and Microsoft Authenticator configured**
 
+### 4. Security Group Creation
+
+Created a security group in Microsoft Entra ID to organize users and support access management. The group provides a structured way to manage user access and permissions.
+
+**Screenshot: Security group created in Microsoft Entra ID**
+
+<img width="1474" height="618" alt="group update" src="https://github.com/user-attachments/assets/85973fe3-c58c-4f3b-b1b1-38faee9d7a8a" />
